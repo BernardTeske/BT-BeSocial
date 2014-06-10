@@ -12,3 +12,5 @@ This is a Font for Social Icons. At the Moment it only contains some Characters.
 * X for XING-Icon
 
 Feel free to use!
+
+View characters here: https://github.com/BernardTeske/BT-BeSocial/blob/master/view.jpg
