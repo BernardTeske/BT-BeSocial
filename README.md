@@ -10,6 +10,8 @@ This is a Font for Social Icons. At the Moment it only contains some Characters.
 * Y For Youtube-Icon
 * R for RSS-Icon
 * X for XING-Icon
+* B for Behance-Icon
+* P for Pinterest-Icon
 
 Feel free to use!
 
